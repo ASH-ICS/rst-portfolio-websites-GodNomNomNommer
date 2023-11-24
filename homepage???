@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <style>
+    header {
+      background-color: red;
+      padding: 10px;
+      color: white;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>Files</h1>
+  </header>
+  <ul>
+    <li><a href="index.html">index.html</a> - Homepage</li>
+    <li><a href="script.js">script.js</a> - JavaScript file</li>
+    <li><a href="style.css">style.css</a> - CSS file</li>
+  </ul>
+</body>
+
+</html>

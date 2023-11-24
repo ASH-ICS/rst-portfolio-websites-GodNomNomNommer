@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Coding Bookmark Page</title>
+</head>
+
+<body>
+  <h1>Coding Bookmark Page</h1>
+  <ul>
+    <li><a href="https://www.w3schools.com/">W3Schools</a></li>
+    <li><a href="https://developer.mozilla.org/">MDN Web Docs</a></li>
+    <li><a href="https://stackoverflow.com/">Stack Overflow</a></li>
+    <li><a href="https://www.freecodecamp.org/">freeCodeCamp</a></li>
+  </ul>
+
+  <h2>Coding Videos</h2>
+  <ul>
+    <li><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP636Cf4g9Ya2p-2nJGzHwM_3">CS50 2020 - Introduction to Computer Science</a></li>
+    <li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo">Crash Course Computer Science</a></li>
+    <li><a href="https://www.youtube.com/playlist?list=PL1H1sBF1VAKXMZvWkOyLAb9VivtuHjTL5">Stanford CS106A - Programming Methodology</a></li>
+    <li><a href="https://www.youtube.com/playlist?list=PLvJoKkMCja-0q9WYxubpZv5Dd5jegh0X2">MIT 6.001 - Structure and Interpretation of Computer Programs</a></li>
+  </ul>
+</body>
+
+</html>
